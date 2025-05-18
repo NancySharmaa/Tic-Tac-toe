@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../OneDrive/Documents/Desktop/my-todos-app"
+		},
+		{
+			"path": "../../OneDrive/Documents/Desktop/tic-tac-toe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tic-tac-toe"
+	}
+}
