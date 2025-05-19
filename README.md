@@ -27,3 +27,6 @@ Whoever completes a line (horizontal, vertical, diagonal) wins!
 
 ## 🛠️ Author
 Made with ❤️ by [Nancy Sharma](https://github.com/NancySharmaa)
+
+## 🔗 Live Demo
+[Play Tic-Tac-Toe](https://nancysharmaa.github.io/Tic-Tac-toe/)
